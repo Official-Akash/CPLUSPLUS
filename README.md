@@ -4,7 +4,7 @@
 ```
 Here is the description of all files
 ```
-* [ArraydeleteSpecific.c](ArraydeleteSpecific.c) - delete an element from specif position in an Array.* [ArraydeleteSpecific.c](ArraydeleteSpecific.c)
+* [ArraydeleteSpecific.c](ArraydeleteSpecific.c) - delete an element from specif position in an Array.
 * [Deq.c](Deq.c) - 
 * [Enq.c](Enq.c)
 * [FileIO.cpp](FileIO.cpp)
