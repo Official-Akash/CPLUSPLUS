@@ -1,79 +1,81 @@
 # CPLUSPLUS
 
-##1. All the programs that I created during my Studies in C and C++.
-```
-Here is the description of all files
-```
+##1. All the programs that I created during my Studies in C and C++:
+	```
+	Here is the description of all files
+	```
+	a. for C programs description :- [C\readme.md](readme.md) of C
+	b. for C++ programs description :- [CPP\readme.md](readme.md) of C++
 * [ArraydeleteSpecific.c](ArraydeleteSpecific.c) - delete an element from specif position in an Array.
-* [Deq.c](Deq.c) - 
-* [Enq.c](Enq.c)
-* [FileIO.cpp](FileIO.cpp)
-* [Fileappend.cpp](Fileappend.cpp)
-* [MatrixAddition.c](MatrixAddition.c)
-* [POP.c](POP.c)
-* [PUSH.c](PUSH.c)
-* [PureIn.cpp](PureIn.cpp)
-* [PureOut.cpp](PureOut.cpp)
-* [QuickSort.c](QuickSort.c)
-* [Read.cpp](Read.cpp)
-* [Write.cpp](Write.cpp)
-* [ascendingOrder.c](ascendingOrder.c)
-* [binarySearch.c](binarySearch.c)
-* [bubbleSOrt.c](bubbleSOrt.c)
-* [callbyreference.c](callbyreference.c)
-* [callbyval.c](callbyval.c)
-* [clock.c](clock.c)
-* [constructoroverLoading.cpp](constructoroverLoading.cpp)
-* [copyConstructor.cpp](copyConstructor.cpp)
-* [createfile.cpp](createfile.cpp)
-* [createlinklist.c](createlinklist.c)
-* [deletefromlastinarray.c](deletefromlastinarray.c)
-* [dowhile.c](dowhile.c)
-* [elseifladder.c](elseifladder.c)
-* [elsif.c](elsif.c)
-* [fabonacci.c](fabonacci.c)
-* [factorial.c](factorial.c)
-* [factorial.cpp](factorial.cpp)
-* [factorial2.c](factorial2.c)
-* [forloop.c](forloop.c)
-* [for.c](for.c)
-* [for2.c](for2.c)
-* [functionOverloading.cpp](functionOverloading.cpp)
-* [funover.cpp](funover.cpp)
-* [globalvar.c](globalvar.c)
-* [if-else.c](if-else.c)
-* [if.c](if.c)
-* [insertionsort.c](insertionsort.c)
-* [insertk.c](insertk.c)
-* [iteration.c](iteration.c)
-* [linear.c](linear.c)
-* [linked.cpp](linked.cpp)
-* [localvar.c](localvar.c)
-* [mul.c](mul.c)
-* [mul.cpp](mul.cpp)
-* [multiplication.c](multiplication.c)
-* [nestedfor.c](nestedfor.c)
-* [palindrome.c](palindrome.c)
-* [pointer.c](pointer.c)
-* [pointertopointer.c](pointertopointer.c)
-* [putchar.c](putchar.c)
-* [quick.c](quick.c)
-* [read2.cpp](read2.cpp)
-* [readwrite.c](readwrite.c)
-* [readwrite.cpp](readwrite.cpp)
-* [relational.c](relational.c)
-* [selection.c](selection.c)
-* [strcat.c](strcat.c)
-* [stringcmp.c](stringcmp.c)
-* [strlen.c](strlen.c)
-* [struct.c](struct.c)
-* [sum.c](sum.c)
-* [sumusingfunc.c](sumusingfunc.c)
-* [switch.c](switch.c)
-* [switchmonth.c](switchmonth.c)
-* [transpose.c](transpose.c)
-* [unarypost.cpp](unarypost.cpp)
-* [unarypre.cpp](unarypre.cpp)
-* [variables.c](variables.c)
-* [virtual.cpp](virtual.cpp)
-* [while.c](while.c)
+* [Deq.c](Deq.c) - deletion from a Queue
+* [Enq.c](Enq.c) - insertion into a Queue
+* [FileIO.cpp](FileIO.cpp) - write to a file and read from it
+* [Fileappend.cpp](Fileappend.cpp) - append data to a file
+* [MatrixAddition.c](MatrixAddition.c) - addition of matrices elements
+* [POP.c](POP.c) - delete from top of stack
+* [PUSH.c](PUSH.c) - insert into stack
+* [PureIn.cpp](PureIn.cpp) - pure inside virtual function
+* [PureOut.cpp](PureOut.cpp) - pure outside virtual function
+* [QuickSort.c](QuickSort.c) - Quick sort program
+* [Read.cpp](Read.cpp) - Read from a file
+* [Write.cpp](Write.cpp) - write into a file
+* [ascendingOrder.c](ascendingOrder.c) - arranging data in acsending order
+* [binarySearch.c](binarySearch.c) - binary search method
+* [bubbleSOrt.c](bubbleSOrt.c) - bubble sort program
+* [callbyreference.c](callbyreference.c) - call by reference program
+* [callbyval.c](callbyval.c) - call by value program
+* [clock.c](clock.c) - inbuilt clock program of turboC++
+* [constructoroverLoading.cpp](constructoroverLoading.cpp) - constructor overloading program
+* [copyConstructor.cpp](copyConstructor.cpp) - copy constructor in c++
+* [createfile.cpp](createfile.cpp) - create a file
+* [createlinklist.c](createlinklist.c) - creating a linked list
+* [deletefromlastinarray.c](deletefromlastinarray.c) - delete from last in array
+* [dowhile.c](dowhile.c) - use of do while
+* [elseifladder.c](elseifladder.c) - use of else-if ladder
+* [elsif.c](elsif.c) - use of else if statements
+* [fabonacci.c](fabonacci.c) - fibonacci searies program
+* [factorial.c](factorial.c) - program to find factorial of a number
+* [factorial.cpp](factorial.cpp) - program to find factorial of a number
+* [factorial2.c](factorial2.c) - program to find factorial of a number
+* [forloop.c](forloop.c) - use case of for loop
+* [for.c](for.c) - use case of for loop
+* [for2.c](for2.c) - use case of for loop
+* [functionOverloading.cpp](functionOverloading.cpp) - function overloading in c++
+* [funover.cpp](funover.cpp) - function overloading in c++
+* [globalvar.c](globalvar.c) - global variable declaration and use in c
+* [if-else.c](if-else.c) - use case of if-else statement 
+* [if.c](if.c) - use case of if-else statement
+* [insertionsort.c](insertionsort.c) - use case program of insertion sort
+* [insertk.c](insertk.c) - insert at kth location in array
+* [iteration.c](iteration.c) - half pyramid triangle program in c
+* [linear.c](linear.c) - linear search program in c
+* [linked.cpp](linked.cpp) - linked list program with all operations on it
+* [localvar.c](localvar.c) - local variable
+* [mul.c](mul.c) - multiplication of matrices in c
+* [mul.cpp](mul.cpp) -multiplication of matrices in c++
+* [multiplication.c](multiplication.c) - multiplication of matrices in c
+* [nestedfor.c](nestedfor.c) - nested for loop in c
+* [palindrome.c](palindrome.c) - program to generate palindrome
+* [pointer.c](pointer.c) - pointers in c
+* [pointertopointer.c](pointertopointer.c) - pointer to a pointer reference in c
+* [putchar.c](putchar.c) - putchar in c
+* [quick.c](quick.c) - quick sort program
+* [read2.cpp](read2.cpp) - read from a file in c++
+* [readwrite.c](readwrite.c) - read/write from/to a file in c
+* [readwrite.cpp](readwrite.cpp) - read/write from/to a file in c++
+* [relational.c](relational.c) - program to find greatest of three numbers in c
+* [selection.c](selection.c) - selection sort use case program
+* [strcat.c](strcat.c) - string contactination in c
+* [stringcmp.c](stringcmp.c) - string compare in c
+* [strlen.c](strlen.c) - calculating string length in c
+* [struct.c](struct.c) - structure in c
+* [sum.c](sum.c) - addition of matrices
+* [sumusingfunc.c](sumusingfunc.c) - calculation sum using function
+* [switch.c](switch.c) - use case of switch statement
+* [switchmonth.c](switchmonth.c) - print month name using switch
+* [transpose.c](transpose.c) - transpose of a matrix
+* [unarypost.cpp](unarypost.cpp) - unary operator postfix
+* [unarypre.cpp](unarypre.cpp) - unary operator prefix
+* [variables.c](variables.c) - variables in c
+* [virtual.cpp](virtual.cpp) - virtual function in c++
+* [while.c](while.c) - use case of while loop in c
