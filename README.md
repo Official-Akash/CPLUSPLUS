@@ -4,8 +4,8 @@
 ```
 for C programs description :- 
 ```
-[C\readme.md](readme.md)
+[readme.md](C\readme.md)
 ```
 for C++ programs description :-
 ```
-[CPP\readme.md](readme.md)
+[readme.md](CPP\readme.md)
