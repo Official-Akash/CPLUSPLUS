@@ -4,8 +4,8 @@
 ```
 Here is the description of all files
 ```
-a. for C programs description :- [C\readme.md](readme.md) of C
-b. for C++ programs description :- [CPP\readme.md](readme.md) of C++
+	a. for C programs description :- [C\readme.md](readme.md) of C
+	b. for C++ programs description :- [CPP\readme.md](readme.md) of C++
 * [ArraydeleteSpecific.c](ArraydeleteSpecific.c) - delete an element from specif position in an Array.
 * [Deq.c](Deq.c) - deletion from a Queue
 * [Enq.c](Enq.c) - insertion into a Queue
